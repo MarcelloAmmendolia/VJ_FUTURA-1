@@ -1,10 +1,9 @@
 # VJ_FUTURA-1
                                                                                                                                                                           
-  
+
+Futura is a VJ Set 
 2022   -                                                                                                                                                                 
 Extracts taken from realtime performing,
-
-↓
 
 
 ![MAD ASCII FINALE](https://user-images.githubusercontent.com/82780678/194174430-12cfc795-48c7-4305-9596-7b13957ef6ac.gif)
