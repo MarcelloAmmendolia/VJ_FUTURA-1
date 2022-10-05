@@ -1,7 +1,7 @@
 # VJ_FUTURA-1
                                                                                                                                                                           
 
-Futura is a VJ Set 
+Futura is a VJ Set                                                                                                                                                       
 2022   -                                                                                                                                                                 
 Extracts taken from realtime performing,
 
